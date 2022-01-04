@@ -1,0 +1,45 @@
+/* --------------- Genel --------------- */
+
+
+/* --------------- Header --------------- */
+.baslik-1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: #bd1b55;
+    text-align: center;
+    font-size: x-large;
+}
+/* --------------- Nav --------------- */
+.font-1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: hsl(251, 100%, 12%);
+    font-size:small ;
+    margin-left: 15px;
+}
+.font-2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: hsl(251, 100%, 12%);
+    font-size:medium ;
+    margin-left: 15px;
+}
+.menu{
+    list-style-position: inside;
+    text-align: center;
+}
+/*--------------- Anasayfa Main --------------- */
+.baslik-2{
+    font-family:Arial, Helvetica, sans-serif;
+    color: hsl(244, 95%, 37%);
+    font-size: x-large;
+    text-align: center;
+}
+.baslik-3{
+    font-family:Arial, Helvetica, sans-serif;
+    color: hsl(27, 100%, 34%);
+    font-size: large;
+    text-align: center;
+}
+/* --------------- Hakkımızda Main --------------- */
+
+
+/* --------------- Ürünlerimiz Main --------------- */
